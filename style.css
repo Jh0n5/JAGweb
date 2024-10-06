@@ -1,0 +1,15 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+  text-align: center;
+  color: #000080;
+  background-color: #ffac9a;
+  font-size: 100%;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+img{
+  width: 50%;
+  border-radius: 10px;
+}
